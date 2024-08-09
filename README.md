@@ -2,6 +2,8 @@
 
 O projeto neste repositório consiste em relalizar a automação de teste, para o primeiro caso de teste descrito no documento de resolução da Avaliação Técinica, ou seja, validar se é possível submeter um registro após o preenchimento dos campos obrigatórios.
 
+O teste foi desenvolvido wm JS com [Cypress](https://www.cypress.io/).
+
 # Arquitetura do Projeto
 
 -   Cypress: Pasra Raiz do projeto
